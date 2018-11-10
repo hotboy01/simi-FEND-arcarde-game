@@ -20,5 +20,6 @@
 <p><a href='https://github.com/hotboy01/simi-FEND-arcarde-game/blob/master/js/engine.js'>engine.js</a></p>
 <p><a href='https://github.com/hotboy01/simi-FEND-arcarde-game/blob/master/js/resources.js'>resources.js</a></p>
 <p><a href='https://github.com/hotboy01/simi-FEND-arcarde-game/blob/master/css/style.css'>style.css</a></p>
+
 * As most of engine.js and resources.js codes were supplied by udacity. 
  
