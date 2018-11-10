@@ -16,10 +16,10 @@
 <p>You can simply play this game by clicking <a href='https://hotboy01.github.io/simi-FEND-arcarde-game'>here</a>.</p>
  
 ## Dependencies
-<p><a href=''>app.js</a></p>
-<p><a href=''>engine.js</a></p>
-<p><a href=''>resources.js</a></p>
-<p><a href=''>style.css</a></p>
+<p><a href='https://github.com/hotboy01/simi-FEND-arcarde-game/blob/master/js/app.js'>app.js</a></p>
+<p><a href='https://github.com/hotboy01/simi-FEND-arcarde-game/blob/master/js/engine.js'>engine.js</a></p>
+<p><a href='https://github.com/hotboy01/simi-FEND-arcarde-game/blob/master/js/resources.js'>resources.js</a></p>
+<p><a href='https://github.com/hotboy01/simi-FEND-arcarde-game/blob/master/css/style.css'>style.css</a></p>
 
-*As most of engine.js and resources.js codes were supplied by udacity. 
+* As most of engine.js and resources.js codes were supplied by udacity. 
  
